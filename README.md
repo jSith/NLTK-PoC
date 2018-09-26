@@ -1,6 +1,6 @@
 # NLTK-PoC
 A brief proof of concept of the NLTK package  
-Overengineered so that readers can see some examples of objects, try-catch, and tests in Python
+Overengineered so that readers can see some examples of objects, try blocks, and tests in Python
 
 # Running This Code
 1) Acquire the code from Git however you like (git clone, zip file, etc.)
