@@ -9,7 +9,7 @@ Overengineered so that readers can see some examples of objects, try-catch, and 
 2) The first time you run this, you'll want to uncomment the first two lines in sentiment_analysis.py.  
 (comments in Python are done with a #)  
 This will download the lexicon that the Vader package uses.  
-Once you've run it once with that, you can comment it back out again.  
+After you've run it once with that, you can comment it back out again.  
 
 
 3a) If you have an IDE like PyCharm, you can open test.py in PyCharm.  
@@ -22,7 +22,7 @@ If you're on Linux, you can just go to the console and enter python {path-to-tes
 
 If you're on Windows, find your Python installation. It should be called python.exe  
 It normally goes into C:\Users\{username}\AppData\Local\Programs\Python.  
-Then enter {path-to-Python-installation}\python.exe {path-to-this-project}\test.py  
+Then go to the command line and enter {path-to-Python-installation}\python.exe {path-to-this-project}\test.py  
 
 4) Output  
 You should see: "Ran 6 tests in {time}. OK"  
