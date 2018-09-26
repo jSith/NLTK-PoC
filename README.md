@@ -21,7 +21,7 @@ If you don't have Python, download it. https://www.python.org/downloads/
 If you're on Linux, you can just go to the console and enter python {path-to-this-project}/test.py  
 
 If you're on Windows, find your Python installation. It should be called python.exe  
-It normally goes into C:\Users\{username}\AppData\Local\Programs\Python.  
+It normally goes into C:\Users\\{username}\AppData\Local\Programs\Python.  
 Then go to the command line and enter {path-to-Python-installation}\python.exe {path-to-this-project}\test.py  
 
 4) Output  
