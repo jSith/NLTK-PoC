@@ -3,6 +3,16 @@ from sentiment_analysis import analyze_sentiment
 
 
 class TestAnalysis(unittest.TestCase):
+    # This class inherits from the unittest.TestCase class
+
+    def setUp(self):
+        # setUp and tearDown are functions used by subclasses of TestCase
+        # setUp will run before every method in the class, tearDown will run after
+        # I don't actually need to do anything to set up or tear down here, so they're just for demonstration
+        # However, you'll get an error if you try to leave a class or function blank. So use pass instead
+        # NotImplementedError is also a thing, but it's for abstract methods
+        pass
+
     def test_positive_analysis_one(self):
         text = 'This place was awesome! I loved everything about it, I especially liked the great service'
         result = analyze_sentiment(text)
