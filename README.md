@@ -18,7 +18,7 @@ Then click Run -> Run 'test'. Or you can click Run -> Run Unittests for Test.Tes
 3b) If you don't have an IDE set up, you can run it through the console as long as you have a Python interpreter.  
 If you don't have Python, download it. https://www.python.org/downloads/  
 
-If you're on Linux, you can just go to the console and enter python {path-to-test.py}/test.py  
+If you're on Linux, you can just go to the console and enter python {path-to-this-project}/test.py  
 
 If you're on Windows, find your Python installation. It should be called python.exe  
 It normally goes into C:\Users\{username}\AppData\Local\Programs\Python.  
